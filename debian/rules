@@ -1,0 +1,24 @@
+#!/usr/bin/make -f
+
+%:
+	dh ${@}
+
+override_dh_fixperms:
+	find debian/*/usr/share/siduction-manual -type f -exec chmod 0644 {} \;
+	dh_fixperms
+
+create-icons:
+	# requires inkscape to be installed
+	@if [ ! -x /usr/bin/inkscape ]; then \
+		echo "ERROR: inkscape not installed!" ; \
+		false ; \
+	fi
+	#
+	# create XDG compatible icons from SVG
+	for i in 16 22 32 48 64 128; do \
+		mkdir -p "menu/icons/hicolor/$${i}x$${i}/apps" ; \
+		inkscape --export-width=$${i} \
+			 --export-height=$${i} \
+			 --export-png="$(CURDIR)/menu/icons/hicolor/$${i}x$${i}/apps/sidu-manual.png" \
+				$(CURDIR)/menu/icons/sidu-manual.svg ; \
+	done

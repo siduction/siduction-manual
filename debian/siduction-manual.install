@@ -1,0 +1,5 @@
+de/*.pdf			usr/share/siduction-manual/
+menu/siduction-manual.desktop	usr/share/applications/siduction/
+menu/siduction-manual.desktop	etc/skel/Desktop/
+menu/icons/sidu-manual.svg	usr/share/icons/hicolor/scalable/apps/
+menu/icons/hicolor		usr/share/icons/

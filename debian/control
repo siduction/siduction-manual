@@ -1,0 +1,21 @@
+Source: siduction-manual
+Section: doc
+Priority: optional
+Maintainer: siduction-team <manual@siduction.org>
+Rules-Requires-Root: no
+Build-Depends: debhelper (>= 11~),
+ patchutils,
+Standards-Version: 4.1.4
+Homepage: https://manual.siduction.org/
+Vcs-git: https://github.com/siduction/sidu-manual
+Vcs-Browser: https://github.com/siduction/sidu-manual
+
+Package: siduction-manual
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: www-browser | gnome-www-browser
+Description: official siduction manual
+ This package provides the siduction manual as PDF file. Its for situations,
+ where no internet is available. You can aollways use the online version on
+ http://manual.siduction.org. Helpers for translation and writing articles
+ for the manual are allways wellcome.

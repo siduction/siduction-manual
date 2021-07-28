@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=xdg-open /usr/share/siduction-manual/siduction-manual_de.pdf
+Icon=sidu-manual
+Name=siduction Handbuch
+Terminal=false
+Categories=System;

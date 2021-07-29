@@ -16,6 +16,6 @@ Depends: ${misc:Depends}
 Recommends: www-browser | gnome-www-browser
 Description: official siduction manual
  This package provides the siduction manual as PDF file. Its for situations,
- where no internet is available. You can allways use the online version on
+ where no internet is available. You can always use the online version on
  http://manual.siduction.org. Helpers for translation and writing articles
- for the manual are allways wellcome.
+ for the manual are always wellcome.

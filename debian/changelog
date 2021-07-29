@@ -1,3 +1,9 @@
+siduction-manual (2021-07-3) unstable; urgency=medium
+
+  * fix another typo in Description 
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Thu, 29 Jul 2021 12:37:07 +0200
+
 siduction-manual (2021-07-2) unstable; urgency=medium
 
   * fix typo in Description

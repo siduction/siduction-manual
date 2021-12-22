@@ -1,3 +1,9 @@
+siduction-manual (2021-12-23) unstable; urgency=medium
+
+  * build latest version
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 22 Dec 2021 17:44:19 +0100
+
 siduction-manual (2021-07-4) unstable; urgency=medium
 
   * update manual to commit c1f7f75

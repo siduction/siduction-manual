@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=xdg-open /usr/share/siduction-manual/siduction-manual_de.pdf
+Exec=/usr/share/siduction/start.sh
 Icon=sidu-manual
 Name=siduction Handbuch
 Terminal=false

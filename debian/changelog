@@ -1,3 +1,9 @@
+siduction-manual (2022-01) unstable; urgency=medium
+
+  * prepare Masters of War release
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 14 Dec 2022 18:46:36 +0100
+
 siduction-manual (2021-12-23) unstable; urgency=medium
 
   * build latest version

@@ -5,7 +5,7 @@ Source: https://github.com/siduction/sidu-manual
 
 Files: *
 Copyright: 2006-2015, Trevor Walkley <trevor_walkley@aptenodytes.org>
-	   2014-2021, siduction Team <manual@siduction.org> 
-	   2020-2021, Axel Konrad <emma-konrad@web.de>
+	   2014-2022, siduction Team <manual@siduction.org> 
+	   2020-2022, Axel Konrad <emma-konrad@web.de>
 License: GFDL-1.2+
 

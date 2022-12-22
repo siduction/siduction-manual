@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Exec=/usr/share/siduction/start.sh
-Icon=sidu-manual
+Icon=/usr/share/icons/hicolor/scalable/apps/sidu-manual.svg
 Name=siduction Handbuch
 Terminal=false
 Categories=System;

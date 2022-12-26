@@ -1,3 +1,9 @@
+siduction-manual (2022-04) unstable; urgency=medium
+
+  * package latest version
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Mon, 26 Dec 2022 18:22:22 +0100
+
 siduction-manual (2022-03) unstable; urgency=medium
 
   * package fixed svg icon

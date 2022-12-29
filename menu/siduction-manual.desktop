@@ -2,6 +2,7 @@
 Type=Application
 Exec=/usr/share/siduction/start.sh
 Icon=sidu-manual
-Name=siduction Handbuch
+Name=siduction manual
+Name[de]=siduction Handbuch
 Terminal=false
 Categories=System;

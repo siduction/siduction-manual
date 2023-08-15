@@ -1,3 +1,10 @@
+siduction-manual (2023.08.15) unstable; urgency=medium
+
+  [Axel Konrad]
+  * Include all changes for the 2023.1 release (30th birthday of debian)
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 15 Aug 2023 20:33:02 +0200
+
 siduction-manual (2023.07.11) unstable; urgency=medium
 
   [ Axel Konrad ]

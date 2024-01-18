@@ -1,11 +1,11 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: siduction-manual
-Upstream-Contact: Axel Konrad <emma-konrad@web.de>
+Upstream-Contact: Axel Konrad <ak-li@siduction.org>
 Source: https://github.com/siduction/sidu-manual
 
 Files: *
 Copyright: 2006-2015, Trevor Walkley <trevor_walkley@aptenodytes.org>
-	   2014-2023, siduction Team <manual@siduction.org> 
-	   2020-2023, Axel Konrad <ak-li@siduction.org>
+	   2014-2024, siduction Team <manual@siduction.org> 
+	   2020-2024, Axel Konrad <ak-li@siduction.org>
 License: GFDL-1.2+
 

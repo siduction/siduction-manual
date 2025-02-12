@@ -1,3 +1,10 @@
+siduction-manual (2025.02.12) unstable; urgency=medium
+
+    [Axel Konrad]
+  * update Debian sources format deb822
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 12 Feb 2025 21:08:50 +0100
+
 siduction-manual (2024.12.23) unstable; urgency=medium
 
   * Release

@@ -5,4 +5,4 @@ Icon=sidu-manual
 Name=siduction manual
 Name[de]=siduction Handbuch
 Terminal=false
-Categories=System;
+Categories=System;Documentation;

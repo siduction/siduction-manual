@@ -1,3 +1,10 @@
+siduction-manual (2025.09.19) unstable; urgency=medium
+
+    [Axel Konrad]
+  * change 'init [0-6]' to 'systemctl isolate'
+
+ -- Torsten Wohlfarth <towo@siduction.org>  
+
 siduction-manual (2025.03.25) unstable; urgency=medium
 
     [Axel Konrad]

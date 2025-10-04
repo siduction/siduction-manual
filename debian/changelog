@@ -1,9 +1,14 @@
+siduction-manual (2025.10.04) unstable; urgency=medium
+
+    [Axel Konrad]
+  * Error in PDF: Title in page header is incorrect if there is a long table on the first page of the chapter that is wrapped.
+  * Harmonization and formatting of chapter footers for the PDF.
+  * Some minor fixes.
+
 siduction-manual (2025.09.19) unstable; urgency=medium
 
     [Axel Konrad]
   * change 'init [0-6]' to 'systemctl isolate'
-
- -- Torsten Wohlfarth <towo@siduction.org>  
 
 siduction-manual (2025.03.25) unstable; urgency=medium
 

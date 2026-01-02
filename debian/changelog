@@ -1,3 +1,8 @@
+siduction-manual (2026.01.02) unstable; urgency=medium
+
+    [Axel Konrad]
+  * 0706-sys-admin-apt-localmirr_xx, Update apt proxy config line
+
 siduction-manual (2025.10.04) unstable; urgency=medium
 
     [Axel Konrad]

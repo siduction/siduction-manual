@@ -1,3 +1,11 @@
+siduction-manual (2026.05.29) unstable; urgency=medium
+
+    [Axel Konrad]
+  * 0301-hd-install_xx, added cli-installer and fll-installer
+  * 0717-systemd-boot_xx, adaptation to the updated cli-installer
+
+ -- Torsten Wohlfarth <towo@siduction.org>  
+
 siduction-manual (2026.01.02) unstable; urgency=medium
 
     [Axel Konrad]

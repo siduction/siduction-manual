@@ -1,10 +1,11 @@
-siduction-manual (2026.10 15) UNRELEASED; urgency=medium
+siduction-manual (2026.10.15) unstable; urgency=medium
 
+  [ Axel Konrad ]
   * New versions for the Big Crime release.
 
- -- Axel Konrad <axel.konrad@mailbox.org>  Thu, 15 Oct 2026 14:54:37 +0200
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 17 Oct 2026 11:23:53 +0200
 
-siduction-manual (2026.05.29) UNRELEASED; urgency=medium
+siduction-manual (2026.05.29) unstable; urgency=medium
 
     [Axel Konrad]
   * 0301-hd-install_xx, added cli-installer and fll-installer
